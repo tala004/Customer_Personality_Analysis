@@ -1,18 +1,18 @@
 # Customer Personality Analysis using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 This project applies both **Supervised** and **Unsupervised Machine Learning** algorithms to the Kaggle *Customer Personality Analysis* dataset. The goal is to perform predictive modeling (Regression & Classification) and customer segmentation (Clustering) to help a retail company optimize its marketing strategies.
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 ```text
 ├── data/
 │   └── marketing_campaign.csv       # The original dataset (Tab-separated)
 ├── Customer_Personality_Analysis.ipynb # Main Jupyter Notebook with all sections
 ├── requirements.txt                 # Required Python libraries
 └── README.md                        # Project documentation (This file)
-## 🚀 Key Steps & Findings
+##  Key Steps & Findings
 
 ### 1. Data Preprocessing & Feature Engineering
 * **Missing Values:** Imputed the missing entries in the `Income` column using the **Median** to avoid outlier distortion.
